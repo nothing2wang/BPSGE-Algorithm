@@ -1,5 +1,5 @@
 # BPSGE-Algorithm
-demo for " A Bregman Proximal Stochastic Gradient Method with Extrapolation for Nonconvex Nonsmooth Problems“
+demo for " A Bregman Proximal Stochastic Gradient Method with Extrapolation for Nonconvex Nonsmooth Problems“ AAAI 2024
 
 
 # References
